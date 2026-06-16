@@ -4,7 +4,7 @@ Built an interactive HR analytics dashboard analyzing employee attrition
 patterns across 1,470 employee records using Power BI.
 
 ## 📊 Dashboard Preview
-![HR Dashboard](HR_Analytics_Dashboard.png)
+![HR Dashboard](HR Analytics Dashboard.png)
 
 ## Key Insights
 - Identified department, job role, and salary as key attrition drivers
